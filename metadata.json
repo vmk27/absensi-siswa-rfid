@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Absensi RFID Sekolah",
+  "description": "Aplikasi manajemen absensi siswa menggunakan kartu RFID dengan fitur Admin Dashboard dan Mode Kiosk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
